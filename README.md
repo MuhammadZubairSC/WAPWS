@@ -7,4 +7,4 @@ The project was done using Arduin uC and has two parts:
 1. Transmitter part
 2. Receiver part
 
-The codes are self-explanatory, so you're welcome.
+Note: The codes are self-explanatory.
